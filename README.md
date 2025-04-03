@@ -19,7 +19,8 @@ Each day's folder contains:
 | Day  | Problem 1 | Problem 2 |
 |------|----------|----------|
 | 1️⃣  | ✅ Done | ✅ Done |
-| 2️⃣  | ⏳ In Progress | ⏳ In Progress |
+| 2️⃣  | ✅ Done | ✅ Done |
+| 3️⃣  | ⏳ In Progress | ⏳ In Progress |
 | ...  | ... | ... |
 
 ## 📚 Resources Used
